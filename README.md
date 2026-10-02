@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola a todos! 👋 Mi nombre es Bernabé
 
-<!--
-**HHB100/HHB100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología y actualmente me encuentro expandiendo mis conocimientos en el desarrollo de software y el control de versiones.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí:
+* 🔭 **Actualmente estoy trabajando en:** Desarrollar mis habilidades técnicas y mejorar mis flujos de trabajo diario.
+* 🌱 **Actualmente estoy aprendiendo:** Todo sobre **Git**, **GitHub** y las mejores prácticas para el desarrollo de proyectos cooperativos.
+* 🎯 **Mis objetivos:** Automatizar procesos y dominar las herramientas modernas de programación.
+* 💬 **Pregúntame sobre:** El curso de GitHub, soporte técnico o metodologías de aprendizaje.
+
+---
+
+### 🛠️ Tecnologías y Herramientas:
+* **Control de versiones:** Git & GitHub
+* **Entornos de trabajo:** Terminal de Windows / PowerShell
+
+*¡Gracias por visitar mi perfil! "El aprendizaje es un proceso continuo y cada paso cuenta."*
+
